@@ -1,0 +1,40 @@
+.conteudo-principal{
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+.titulo-principal{
+    display: flex;
+    justify-content: center;
+    font-style: initial;
+    font-size: 50px;
+
+}
+.texto-inicial{
+    display:flex;
+    justify-content: center;
+    font-style: inherit ;
+    font-size: 20px;
+    
+}
+.texto-inicial2{
+    display:flex;
+    justify-content: center;
+    font-style: inherit ;
+
+}
+h3{
+    font-size: 2rem;
+    font-style: oblique;
+    
+}
+.texto{
+    display: inline-block;
+    justify-content: center;
+    width: 40%;
+    margin: 1em;
+    margin-left: 5%;
+    background-color: white;
+    
+
+}
